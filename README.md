@@ -1,5 +1,5 @@
 ### Hi there I'am Özlem 👋
--🌱I begin to learn coding a while ago.
+-🌱I began to learn coding a while ago.
 
 -⚡I’m currently working on improving my coding skills and be better at coding.
 
