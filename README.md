@@ -13,10 +13,4 @@
 - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" width="20"> Git
 - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt="Visual Studio Code" width="20"> Visual Studio Code
 
-
-**My GitHub Stats:**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozlemxates&show_icons=true&theme=radical)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemxates&layout=compact)](https://github.com/ozlemxates)
-
