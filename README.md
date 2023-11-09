@@ -6,12 +6,13 @@
 
 📫 If you want to get in touch, you can contact me via: [This Email Address](mailto:ozlemxatess@outlook.com)
 
-⚙️ Technologies I Use:
+⚙️ Some of the technologies I use:
 
-- <img src="https://www.example.com/javascript-icon.png" alt="JavaScript" width="20"> JavaScript
-- <img src="https://www.example.com/react-icon.png" alt="React" width="20"> React
-- <img src="https://www.example.com/git-icon.png" alt="Git" width="20"> Git
-- <img src="https://www.example.com/vscode-icon.png" alt="Visual Studio Code" width="20"> Visual Studio Code
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript" width="20"> JavaScript
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" width="20"> React
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" width="20"> Git
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt="Visual Studio Code" width="20"> Visual Studio Code
+
 
 **My GitHub Stats:**
 
