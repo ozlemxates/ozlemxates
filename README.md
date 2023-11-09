@@ -4,13 +4,7 @@
 
 ⚡ Currently, I'm working on improving my coding skills and becoming a better coder.
 
-🔭 Some of the projects I'm currently working on:
-   - [Project 1](link1): A brief description of your project.
-   - [Project 2](link2): A brief description of your project.
-
 📫 If you want to get in touch, you can contact me via: [This Email Address](mailto:ozlemxatess@outlook.com)
-
-💼 You can visit my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/ozlemxates/)
 
 ⚙️ Technologies I Use:
 
