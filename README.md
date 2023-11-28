@@ -1,8 +1,6 @@
 ### Hi there, I'm Özlem 👋
 
-🌱 I started learning coding a while ago.
-
-⚡ Currently, I'm working on improving my coding skills and becoming a better coder.
+⚡ I am interested in coding and am currently working on improving my coding skills to become a better coder.
 
 📫 If you want to get in touch, you can contact me via: [This Email Address](mailto:ozlemxatess@outlook.com)
 
